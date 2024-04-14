@@ -8,7 +8,7 @@
 1. Убедитесь, что на вашем компьютере установлен Python (рекомендуемая версия 3.6+).
 2. Склонируйте этот репозиторий на свой компьютер:
 
-git clone https://github.com/your-username/eco-counters-screenshots.git
+git clone https://github.com/artemlarchenkov/Avito_testcase/tree/main
 
 3. Перейдите в каталог с репозиторием:
 
